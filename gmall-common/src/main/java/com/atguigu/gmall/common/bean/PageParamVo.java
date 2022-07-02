@@ -24,7 +24,7 @@ public class PageParamVo {
     //每页条数
     private int pageSize = 10;
 
-    // 查询条件
+    // 查询条件 fffff
     private String key;
 
     public <T> IPage<T> getPage(){
